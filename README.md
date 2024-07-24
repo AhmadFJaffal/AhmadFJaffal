@@ -5,5 +5,5 @@ I'm a full stack web developer specialized in MERN stack , NextJS, firebase, and
 - 💞️ I’m looking to collaborate on exciting software projects, web applications, or open-source initiatives. If you have any interesting opportunities or projects, feel free to reach out to me!
 - 📫 How to reach me :
 - Email: ahmad-jaffal1@outlook.com
-- LinkedIn: www.linkedin.com/in/ahmad-jafal
+- LinkedIn: www.linkedin.com/in/ahmad-f-jaffal
 - Phone Number: +961-81-960-570 
