@@ -13,7 +13,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=AhmadFJaffal&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-"Think Twice, Code Once "
+" Think Twice, Code Once "
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=AhmadFJaffal&limit=5&theme=dark&combine_all_yearly_contributions=true)
