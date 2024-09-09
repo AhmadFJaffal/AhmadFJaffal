@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Ahmad Jaffal! I'm a full stack web developer specialized in MERN stack , NextJS, firebase, and ASP.NET.<br>I believe in the power of collaboration and teamwork.<br>🌱 I'm continuously improving my skills to stay up-to-date with the latest technologies and best practices in the software development industry.<br>💞️ I’m looking to collaborate on exciting software projects, web applications, or open-source initiatives. If you have any interesting opportunities or projects, feel free to reach out to me!<br>📫 How to reach me :<br>Email: ahmad-jaffal1@outlook.com<br>LinkedIn: www.linkedin.com/in/ahmad-f-jaffal<br>Phone Number: +961-81-960-570
+👋 Hi, I’m Ahmad Jaffal! I'm a full stack web developer experienced with production-level projects.<br>I believe in the power of collaboration and teamwork.<br>🌱 I'm continuously improving my skills to stay up-to-date with the latest technologies and best practices in the software development industry.<br>💞️ I’m looking to collaborate on exciting software projects, web applications, or open-source initiatives. If you have any interesting opportunities or projects, feel free to reach out to me!<br>📫 How to reach me :<br>Email: ahmad-jaffal1@outlook.com<br>LinkedIn: www.linkedin.com/in/ahmad-f-jaffal<br>Phone Number: +961-81-960-570
 
 
 # 💻 Tech Stack:
